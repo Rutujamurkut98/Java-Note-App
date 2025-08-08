@@ -19,7 +19,3 @@ Develop a simple **CLI-based Java application** to add and view notes using **Ja
 - **Concepts:** File Handling (`FileWriter`, `FileReader`, `BufferedReader`), Exception Handling, Loops, Conditionals
 - **Data Storage:** Local text file (`notes.txt`)
 
----
-
-## 📂 Project Structure
-
